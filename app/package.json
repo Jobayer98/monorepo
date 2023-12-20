@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "user": "1.0.0",
+    "property": "1.0.0",
+    "booking": "1.0.0",
+    "payment": "1.0.0",
+    "chat": "1.0.0"
+  }
+}
